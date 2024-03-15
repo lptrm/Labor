@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/workspaces/Labor/BalzorApp/obj/Debug/net8.0/scopedcss/projectbundle/BalzorApp.bundle.scp.css",
+      "PackagePath": "staticwebassets/BalzorApp.bundle.scp.css"
+    },
+    {
+      "Id": "/workspaces/Labor/BalzorApp/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/workspaces/Labor/BalzorApp/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/workspaces/Labor/BalzorApp/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/workspaces/Labor/BalzorApp/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.BalzorApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.BalzorApp.props",
+      "PackagePath": "build\\BalzorApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BalzorApp.props",
+      "PackagePath": "buildMultiTargeting\\BalzorApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BalzorApp.props",
+      "PackagePath": "buildTransitive\\BalzorApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

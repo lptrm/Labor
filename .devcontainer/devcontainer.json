@@ -1,0 +1,11 @@
+{
+    "name": "Blazor Dev Container",
+    "build": {
+      "dockerfile": "../Dockerfile",
+      "context": ".."
+    },
+    //because if FE Linux
+    "workspaceMount": "",
+    "runArgs": ["--volume=${localWorkspaceFolder}:/workspaces/${localWorkspaceFolderBasename}:Z"]
+  }
+  
